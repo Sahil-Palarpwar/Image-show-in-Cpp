@@ -1,1 +1,1 @@
-# Image-show-in-C-
+# Image-show-in-Cpp
